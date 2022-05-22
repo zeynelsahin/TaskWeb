@@ -1,0 +1,10 @@
+C:\Users\zynls\Masaüstü\Kurs\MVC\TaskWeb\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\zynls\Masaüstü\Kurs\MVC\TaskWeb\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\zynls\Masaüstü\Kurs\MVC\TaskWeb\ConsoleApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\zynls\Masaüstü\Kurs\MVC\TaskWeb\ConsoleApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\zynls\Masaüstü\Kurs\MVC\TaskWeb\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\zynls\Masaüstü\Kurs\MVC\TaskWeb\ConsoleApp\obj\Debug\ConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\zynls\Masaüstü\Kurs\MVC\TaskWeb\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\zynls\Masaüstü\Kurs\MVC\TaskWeb\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+C:\Users\zynls\Masaüstü\Kurs\MVC\TaskWeb\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\zynls\Masaüstü\Kurs\MVC\TaskWeb\ConsoleApp\obj\Debug\ConsoleApp.pdb
